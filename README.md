@@ -16,7 +16,6 @@ Welcome to the **Prime Study Abroad** mobile app! This React Native application 
 - [Deployment](#deployment)
 - [Security](#security)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -167,11 +166,6 @@ Contributions are welcome! Please follow these steps:
 
 Please ensure your code follows the project’s linting and formatting guidelines.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
