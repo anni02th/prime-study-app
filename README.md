@@ -94,7 +94,8 @@ cd prime-study-abroad/frontend
 2. Install dependencies:
 
 ``` 
-npm install ```
+npm install 
+```
 
 
 3. Create a `.env` file in the `frontend` folder with the following variables:
