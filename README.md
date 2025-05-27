@@ -89,21 +89,21 @@ Prime Study Abroad is a cloud-connected mobile app built with React Native and E
 1. Clone the repository:
 ```git clone https://github.com/yourusername/prime-study-abroad.git
 cd prime-study-abroad/frontend
-
+```
 
 2. Install dependencies:
 
-``` npm install
+``` npm install ```
 
 
 3. Create a `.env` file in the `frontend` folder with the following variables:
 
-``` API_BASE_URL=https://your-backend-api.com
+``` API_BASE_URL=https://your-backend-api.com ```
 
 
 4. Start the development server:
 
-```expo start
+```expo start```
 
 
 5. Open the app on your device using the Expo Go app or an emulator.
