@@ -100,12 +100,14 @@ npm install
 
 3. Create a `.env` file in the `frontend` folder with the following variables:
 
-``` API_BASE_URL=https://your-backend-api.com ```
+``` API_BASE_URL=https://your-backend-api.com 
+```
 
 
 4. Start the development server:
 
-```expo start```
+```expo start
+```
 
 
 5. Open the app on your device using the Expo Go app or an emulator.
