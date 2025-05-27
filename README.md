@@ -179,8 +179,8 @@ Please ensure your code follows the project’s linting and formatting guideline
 
 For questions or support, please contact:
 
-- **Project Maintainer:** yourname@example.com  
-- **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+- **Project Maintainer:** work.anni02th@gmail.com  
+- **GitHub:** [https://github.com/anni02th](https://github.com/anni02th)
 
 ---
 
