@@ -100,13 +100,15 @@ npm install
 
 3. Create a `.env` file in the `frontend` folder with the following variables:
 
-``` API_BASE_URL=https://your-backend-api.com 
+``` 
+API_BASE_URL=https://your-backend-api.com 
 ```
 
 
 4. Start the development server:
 
-```expo start
+```
+expo start
 ```
 
 
